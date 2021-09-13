@@ -10,3 +10,13 @@ The network architechture roughly consists of two heads that build depth cost an
 
 ![network architecture](https://github.com/patel-nisarg/DeepSFM-TensorFlow/blob/main/imgs/deepsfm_architecture.png)
 
+Sources:
+
+DeepSFM Paper:
+https://arxiv.org/pdf/1912.09697.pdf
+
+Origional Repo:
+https://github.com/weixk2015/DeepSFM
+
+Based off of DPSNet:
+https://github.com/sunghoonim/DPSNet
